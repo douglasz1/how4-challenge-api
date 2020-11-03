@@ -25,7 +25,7 @@ pip3 install pipenv
 Agora é o momento de clonar o repositório:
 
 ```bash
-git clone https://github.com/douglasz1/how4-challenge-api.git
+git clone https://github.com/douglasz1/how4-challenge-api.git 
 cd how4-challenge-api
 ```
 
